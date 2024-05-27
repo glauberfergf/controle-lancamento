@@ -10,7 +10,7 @@ Projeto teste para atender a seguinte descrição:
 - [Documentação do projeto](https://github.com/glauberfergf/controle-lancamento/tree/main/Documentacao)
 - [Collection Postman](https://github.com/glauberfergf/controle-lancamento/tree/main/Postman)
 - [Script Banco de dados](https://github.com/glauberfergf/controle-lancamento/tree/main/mysql-init)
-- [Solution do projeto](https://github.com/glauberfergf/controle-lancamento/blob/main/CashFlowManagement.sln)
+- [Solution do projeto](https://github.com/glauberfergf/controle-lancamento/blob/main/CashFlowManagement/CashFlowManagement.sln)
 
 ## Características
 
